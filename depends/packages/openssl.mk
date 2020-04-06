@@ -1,9 +1,7 @@
 package=openssl
-$(package)_version=1.1.1a
-#$(package)_download_path=https://www.openssl.org/source
-$(package)_download_path=https://github.com/openssl/openssl/archive
-#$(package)_file_name=$(package)-$($(package)_version).tar.gz
-$(package)_file_name=OpenSSL_1_1_1a.tar.gz
+$(package)_version=1.1.1f
+$(package)_download_path=https://www.openssl.org/source
+$(package)_file_name=$(package)-$($(package)_version).tar.gz
 $(package)_sha256_hash=fc20130f8b7cbd2fb918b2f14e2f429e109c31ddd0fb38fc5d71d9ffed3f9f41
 $(package)_patches=ssl_fix.patch
 
