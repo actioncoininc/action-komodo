@@ -18,8 +18,8 @@ This is the official Action Coin repository.  This software is based on [Komodo 
 
 - Max Supply: 2 billion ACTN
 - Block Time: 60 seconds
-- 65% POS/35% POW
-- Mining Algorithm: Equihash
+- 100% POS
+- Equihash
 
 ## Block rewards over the next 10 years: 200,000,000 ACTN
 
