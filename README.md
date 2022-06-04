@@ -1,6 +1,6 @@
 ## Action Coin
 
-This is the OLD Action Coin repository.  It is OUT OF DATE, PLEASE DO NOT USE!  This software is based on [Komodo Platform Technology](https://komodoplatform.com/).  If you wish to run a node on our network, compile and build the latest version of Komodo Core:
+This is the OLD Action Coin repository.  It is OUT OF DATE, PLEASE DO NOT USE!  This software is based on [Komodo Platform Technology](https://komodoplatform.com/).  If you wish to run a node on our network, build the latest version of Komodo Core:
 
 https://github.com/KomodoPlatform/komodo
 
@@ -9,6 +9,12 @@ And launch with the following connection parameters in order to sync with the Ac
 ```
 ./komodod -ac_name=ACTN -ac_supply=1799000000 -ac_reward=10000000000 -ac_halving=1051200 -ac_decay=50000000 -ac_end=5256000 -ac_staked=100 -ac_cc=69 -ac_snapshot=1440 -addnode=35.225.176.50
 ```
+
+## Action Ocean Desktop Wallet
+
+You may also build our branded desktop wallet from this repo:
+
+[Action Ocean (action-qt)](https://github.com/actioncoininc/ActionOcean)
 
 ## About this Project
 
